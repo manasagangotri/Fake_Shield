@@ -1,5 +1,5 @@
 # HOW TO EXCECUTE THIS FILE
-    git clone
+    git clone https://github.com/manasagangotri/Fake_Shield.git
     
     cd Fake_Shield
 
